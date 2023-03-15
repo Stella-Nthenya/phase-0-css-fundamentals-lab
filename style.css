@@ -30,28 +30,28 @@ figure figcaption{
   margin-top: auto;
 }
 
-#details .contact{
+#details #contact{
   float: left;
   width: 25%;
   text-align: center;
   background-color: red;
 }
 
-#details .Correspondence{
+#details #Correspondence{
   float: left;
   width: 25%;
   text-align: center;
   background-color: red;
 }
 
-#details .Links{
+#details #Links{
   float: left;
   width: 25%;
   text-align: center;
   background-color: red;
 }
 
-#details .Follow{
+#details #Follow{
   float: left;
   width: 25%;
   text-align: center;
