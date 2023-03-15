@@ -3,3 +3,57 @@ body {
   height: 100%;
   margin: 0;
 }
+h1{
+  text-align: center;
+}
+nav{
+  padding-left: 10px;
+  padding-right: 10px;
+  text-align: center;
+}
+nav a{
+  background-color: grey;
+}
+figure img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+figure figcaption{
+  text-align: center;
+}
+#featured-property p{
+  font-size: small;
+  width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: auto;
+}
+
+#details .contact{
+  float: left;
+  width: 25%;
+  text-align: center;
+  background-color: red;
+}
+
+#details .Correspondence{
+  float: left;
+  width: 25%;
+  text-align: center;
+  background-color: red;
+}
+
+#details .Links{
+  float: left;
+  width: 25%;
+  text-align: center;
+  background-color: red;
+}
+
+#details .Follow{
+  float: left;
+  width: 25%;
+  text-align: center;
+  background-color: red;
+}
